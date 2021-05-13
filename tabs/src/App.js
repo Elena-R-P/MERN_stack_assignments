@@ -1,9 +1,12 @@
 import './App.css';
+import Tabs from './components/Tabs';
+import TabsDisplay from './components/TabsDisplay';
 
 function App() {
   return (
     <div className="App">
-      <Tab></Tab>
+      <Tabs></Tabs>
+      <TabsDisplay></TabsDisplay>
     </div>
   );
 }

@@ -1,0 +1,15 @@
+.container{
+    background-color:darkgray;
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    color:maroon;
+    margin: 50px;
+}
+
+.button {
+    background-color:rgb(173, 55, 55);
+    border-radius: 5px;
+    margin-top: 2px;
+}

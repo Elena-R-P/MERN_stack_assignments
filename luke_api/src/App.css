@@ -1,0 +1,12 @@
+.App {
+  padding: 50px;
+  text-align: center;
+  background-color: rgb(70, 57, 57);
+  color: rgb(240, 234, 234);
+  width: 800px;
+  height: 350px;
+  display: flex;
+  border-radius: 10px;
+}
+
+
